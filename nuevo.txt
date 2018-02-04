@@ -3,6 +3,8 @@ hola
 añado textog
 modifico desde master porque me apetece
 
-modifico y hago push desde original
 
+modifico y hago push desde original
 vuelvo a modificar el original, porque si, porque me apetece
+modifico desde un clone y despues hago push
+
