@@ -4,3 +4,5 @@ añado textog
 modifico desde master porque me apetece
 
 modifico y hago push desde original
+
+vuelvo a modificar el original, porque si, porque me apetece
